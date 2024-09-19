@@ -170,3 +170,16 @@ rm 2
 ./queries.sh
 git status
 git add .
+git commit -m "Modifying Files"
+git commit -m "Modifying SQL queries" queries.sh
+git push origin main
+git add queries.sh
+git commit -m "Modifying SQL queries" queries.sh
+./queries.sh
+./queries.sh
+git add queries.sh
+git commit -m "Modifying SQL queries list of unique team names and unique winning teams" queries.sh
+git push origin main
+./queries.sh
+./queries.sh
+./queries.sh
